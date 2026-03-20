@@ -39,4 +39,4 @@ O programa apresenta um menu interativo com as seguintes opções:
 4. Execute o comando abaixo:
 
 ```bash
-python controle_de_estoque.py.py
+python controle_de_estoque.py
